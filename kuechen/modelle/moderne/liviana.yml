@@ -40,7 +40,7 @@ topics:
     photos:
       - '/kuechen/modelle/moderne/liviana/kuechenarbeitsplatte-1.jpg'
       - '/kuechen/modelle/moderne/liviana/kuechenarbeitsplatte-2.jpg'
-tueren:
+doors:
   description: 'Holzdekor aus Spanplatten 18 mm mit ABS-Kante 2 mm, 18 mm MDF-Platte mit Lackübezug, Glanz oder Matt und Glastüren mit Aluminiumprofil aus Milchglas, gefärbtem und bedrucktem Glas.'
   categories:
     - 
@@ -62,7 +62,7 @@ tueren:
         - '/kuechen/modelle/moderne/liviana/tueren/lackierte-mdf-platten-18-mm/lackierte-mdf-platten-18-mm-2.jpg'
         - '/kuechen/modelle/moderne/liviana/tueren/lackierte-mdf-platten-18-mm/lackierte-mdf-platten-18-mm-3.jpg'
         - '/kuechen/modelle/moderne/liviana/tueren/lackierte-mdf-platten-18-mm/mdf-farben.jpg'
-griffe:
+handles:
   description: 'Einzigartiges System von integrierten Griffen, die je nach Art und Weise der Verwendung von den Türen, entweder horizontal oder vertikal sein können.'
   categories:
     - 
@@ -70,7 +70,7 @@ griffe:
       photos:
         - '/kuechen/modelle/moderne/liviana/griffe/griffe-1.jpg'
         - '/kuechen/modelle/moderne/liviana/griffe/griffe-2.jpg'
-kuechenarbeitsplattes:
+worktops:
   description: 'Es sind interessante Kombinationen verschiedener Küchenarbeitsplatten und Materialien mit unterschiedlicher Dicke in einer Küche möglich. Küchenarbeitsplatten von HPL, EGGER und KAINDL – Österreich. Küchenarbeitsplatten aus Kunststein QUARELLA – Italien. Küchenarbeitsplatten aus Granit NATURAL STONES – Italien.'
   hpl:
     photos:
@@ -88,7 +88,7 @@ kuechenarbeitsplattes:
       - '/kuechen/modelle/moderne/liviana/kuechenarbeitsplatte/hpl/hpl-12.jpg'
       - '/kuechen/modelle/moderne/liviana/kuechenarbeitsplatte/hpl/hpl-13.jpg'
       - '/kuechen/modelle/moderne/liviana/kuechenarbeitsplatte/hpl/hpl-14.jpg'
-  granit:
+  granite:
     photos:
       - '/kuechen/modelle/moderne/liviana/kuechenarbeitsplatte/granit/granit-1.jpg'
       - '/kuechen/modelle/moderne/liviana/kuechenarbeitsplatte/granit/granit-2.jpg'

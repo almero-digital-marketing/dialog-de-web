@@ -45,7 +45,7 @@ topics:
       - '/kitchens/models/modern-classic/izabella-noce/mechanisms-closet.jpg'
       - '/kitchens/models/modern-classic/izabella-noce/mechanisms-upper-door.jpg'
       - '/kitchens/models/modern-classic/izabella-noce/mechanisms-lower-door.jpg'
-tueren:
+doors:
   description: 'Each door is coloured and patinated in order to enhance the effect of the wood and to seal the pores of the timber. The tueren are made of solid oak, 25 mm in thickness. All this contributes to the improved durability of the timber and to protecting it against the influence of the external factors, the moisture and the sun. Varnished, with mat finish.'
   categories:
     - 
@@ -55,7 +55,7 @@ tueren:
         - '/kitchens/models/modern-classic/izabella-noce/tueren/tueren-3.jpg'
         - '/kitchens/models/modern-classic/izabella-noce/tueren/tueren-2.jpg'
         - '/kitchens/models/modern-classic/izabella-noce/tueren/tueren-4.jpg'
-griffe:
+handles:
   description: 'Wide, noticeable metal griffe. In contrast to plastic griffe with metal coating, these griffe do not wear off and the coat does not fall. Their appearance does not change over time. Carefully selected for easy holding and door opening.'
   categories:
     - 
@@ -65,7 +65,7 @@ griffe:
         - '/kitchens/models/modern-classic/izabella-noce/griffe/griffe-2.jpg'
         - '/kitchens/models/modern-classic/izabella-noce/griffe/griffe-3.jpg'
         - '/kitchens/models/modern-classic/izabella-noce/griffe/griffe-4.jpg'
-kuechenarbeitsplattes:
+worktops:
   description: 'To ensure the perfect finish of your kitchen, you can choose from kuechenarbeitsplattes and wall panels of natural stone or made of materials which imitate it successfully. The kuechenarbeitsplattes that we use are made of HPL, granit and technical stone and have proven over time to be shock- and heat-resistant. This gives them a huge advantage as compared to all other materials offered on the market.'
   hpl:
     photos:
@@ -80,7 +80,7 @@ kuechenarbeitsplattes:
   technicalStone:
     photos:
     - '/kitchens/models/modern-classic/izabella-noce/kuechenarbeitsplatte/technical-stone/technical-stone-1.jpg'
-  granit:
+  granite:
     photos:
     - '/kitchens/models/modern-classic/izabella-noce/kuechenarbeitsplatte/granit/granit-1.jpg'
     - '/kitchens/models/modern-classic/izabella-noce/kuechenarbeitsplatte/granit/granit-2.jpg'

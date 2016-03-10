@@ -42,7 +42,7 @@ topics:
       - '/kuechen/modelle/klassische/florenza/technologien-1.jpg'
       - '/kuechen/modelle/klassische/florenza/technologien-2.jpg'
       - '/kuechen/modelle/klassische/florenza/technologien-3.jpg'
-tueren:
+doors:
   description: 'Rahmen aus massivem Birkenholz und Platten in Kirschfarbe, jede Tür ist zusätzlich gefärbt und patiniert, um die Wirkung des Holzes zu verstärken und seine Poren zu versiegeln. Die Bearbeitung wird mit einem Satinlack vollendet. Auf diese Weise bekommen die Türen einen bezaubernden Glanz, der lange Zeit erhalten bleibt.'
   categories:
     - 
@@ -54,7 +54,7 @@ tueren:
         - '/kuechen/modelle/klassische/florenza/tueren/kuechentueren-2.jpg'
         - '/kuechen/modelle/klassische/florenza/tueren/kuechentueren-5.jpg'
         - '/kuechen/modelle/klassische/florenza/tueren/kuechentueren-1.jpg'
-griffe:
+handles:
   description: 'Was ihre Form, Größe und Farbe betrifft, sind die Griffe speziell für das Modell ausgewählt. Sie sind aus Messing und bemaltem Porzellan im Retro-Stil angefertigt. Sie ergänzen das Design und den Look der Küche ganz gut. Das Porzellan ist sehr beständig und zusammen mit dem Metall erhalten die Griffe ihr Aussehen lange Zeit.'
   categories:
     - 
@@ -62,7 +62,7 @@ griffe:
       photos:
         - '/kuechen/modelle/klassische/florenza/griffe/griffe-1.jpg'
         - '/kuechen/modelle/klassische/florenza/griffe/griffe-2.jpg'
-kuechenarbeitsplattes:
+worktops:
   description: 'Für das perfekte Finish der Küche können Sie Küchenarbeitsplatten aus natürlichen Materialien oder eben aus künstlichen, die sie sehr erfolgreich imitieren, auswählen. Wir verfügen über eine große Auswahl an Nuancen von dunkler, heller, ganz weißer oder beiger Farbe. Die beste Kombination bekommt man, wenn die Arbeitsplatte aus Granit ist.'
   hpl:
     photos:
@@ -70,7 +70,7 @@ kuechenarbeitsplattes:
       - '/kuechen/modelle/klassische/florenza/kuechenarbeitsplatte/hpl/hpl-2.jpg'
       - '/kuechen/modelle/klassische/florenza/kuechenarbeitsplatte/hpl/hpl-3.jpg'
       - '/kuechen/modelle/klassische/florenza/kuechenarbeitsplatte/hpl/hpl-4.jpg'
-  granit:
+  granite:
     photos:
       - '/kuechen/modelle/klassische/florenza/kuechenarbeitsplatte/granit/granit-1.jpg'
       - '/kuechen/modelle/klassische/florenza/kuechenarbeitsplatte/granit/granit-2.jpg'

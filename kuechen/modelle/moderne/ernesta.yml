@@ -43,7 +43,7 @@ topics:
       - '/kuechen/modelle/moderne/ernesta/technologien-1.jpg'
       - '/kuechen/modelle/moderne/ernesta/technologien-2.jpg'
       - '/kuechen/modelle/moderne/ernesta/technologien-3.jpg'
-tueren:
+doors:
   description: 'Eichenfurnier, Wenge oder natürliche Farbe, bearbeitet wie beim Modell Izabella. MDF Matt mit einer Stärke von 22 mm, Aluminium rahmen mit farbigem oder bedrucktem Glas. Große Auswahl an Farben bei den Türen aus lackierter MDF.'
   categories:
     - 
@@ -62,7 +62,7 @@ tueren:
         - '/kuechen/modelle/moderne/ernesta/tueren/furnier/furnier-4.jpg'
         - '/kuechen/modelle/moderne/ernesta/tueren/furnier/furnier-5.jpg'
         - '/kuechen/modelle/moderne/ernesta/tueren/furnier/furnier-6.jpg'
-griffe:
+handles:
   description: 'Eine Vielzahl von Standard- und Design-Griffe. Für die Oberschränke können integrierte Türgriffe verwendet werden. Komplett aus Metall angefertigt für bessere Haltbarkeit beim Einsatz.'
   categories:
     - 
@@ -81,7 +81,7 @@ griffe:
         - '/kuechen/modelle/moderne/ernesta/griffe/griffe-11.jpg'
         - '/kuechen/modelle/moderne/ernesta/griffe/griffe-12.jpg'
         - '/kuechen/modelle/moderne/ernesta/griffe/griffe-13.jpg'
-kuechenarbeitsplattes:
+worktops:
   description: 'Für das perfekte Finish der Küche gibt es eine große Auswahl an Küchenarbeitsplatten, Wänden und Paneelen, die aus Naturstein oder aus einem Material, das eine sehr gute Imitation des Steins ist, hergestellt werden können. Extrem zuverlässig und über die Zeit bewährt. Küchenarbeitsplatten von HPL, EGGER und KAINDL – Österreich. Küchenarbeitsplatten aus Kunststein QUARELLA – Italien. Küchenarbeitsplatten aus Granit NATURAL STONES – Italien.'
   hpl:
     photos:
@@ -94,7 +94,7 @@ kuechenarbeitsplattes:
       - '/kuechen/modelle/moderne/ernesta/kuechenarbeitsplatte/hpl/hpl-7.jpg'
       - '/kuechen/modelle/moderne/ernesta/kuechenarbeitsplatte/hpl/hpl-8.jpg'
       - '/kuechen/modelle/moderne/ernesta/kuechenarbeitsplatte/hpl/hpl-9.jpg'
-  granit:
+  granite:
     photos:
       - '/kuechen/modelle/moderne/ernesta/kuechenarbeitsplatte/granit/granit-1.jpg'
       - '/kuechen/modelle/moderne/ernesta/kuechenarbeitsplatte/granit/granit-2.jpg'

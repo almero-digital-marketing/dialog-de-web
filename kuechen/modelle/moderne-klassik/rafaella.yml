@@ -53,7 +53,7 @@ topics:
       - '/kitchens/models/modern-classic/rafaella/technologien-2.jpg'
       - '/kitchens/models/modern-classic/rafaella/technologien-1.jpg'
       - '/kitchens/models/modern-classic/rafaella/technologien-3.jpg'
-tueren:
+doors:
   description: 'Solid tueren of ash-tree, 25 mm thick, and surface finish with white satin varnish.'
   categories:
     - 
@@ -63,14 +63,14 @@ tueren:
         - '/kitchens/models/modern-classic/rafaella/tueren/tueren-2.jpg'
         - '/kitchens/models/modern-classic/rafaella/tueren/tueren-3.jpg'
         - '/kitchens/models/modern-classic/rafaella/tueren/tueren-4.jpg'
-griffe:
+handles:
   description: 'Metal griffe which are not inferior to any other griffe as regards quality and comfort of the grip. Perfectly selected to suit the model. Maximally simple and elegant design.'
   categories:
     - 
       caption: 'Metal'
       photos:
         - '/kitchens/models/modern-classic/rafaella/griffe/metal-griffe.jpg'
-kuechenarbeitsplattes:
+worktops:
   description: 'The white colour of the model makes possible combinations with any colours and kuechenarbeitsplattes which may be made both of natural and artificial materials. You may choose from kuechenarbeitsplattes with a 60 mm thick wooden edge, HPL, granit or technical stone.'
   hpl:
     photos:
@@ -93,7 +93,7 @@ kuechenarbeitsplattes:
       - '/kitchens/models/modern-classic/rafaella/kuechenarbeitsplatte/technical-stone/technical-stone-3.jpg'
       - '/kitchens/models/modern-classic/rafaella/kuechenarbeitsplatte/technical-stone/technical-stone-4.jpg'
       - '/kitchens/models/modern-classic/rafaella/kuechenarbeitsplatte/technical-stone/technical-stone-5.jpg'
-  granit:
+  granite:
     photos:
       - '/kitchens/models/modern-classic/rafaella/kuechenarbeitsplatte/granit/granit-1.jpg'
       - '/kitchens/models/modern-classic/rafaella/kuechenarbeitsplatte/granit/granit-2.jpg'

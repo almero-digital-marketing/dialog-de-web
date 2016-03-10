@@ -51,7 +51,7 @@ topics:
     photos:
       - '/kitchens/models/modern-classic/izabella/technologien-1.jpg'
       - '/kitchens/models/modern-classic/izabella/technologien.jpg'
-tueren:
+doors:
   description: 'The tueren of the upper cupboards are completely opened without any interference to the nearby space. Each door is coloured and patinated in order to enhance the effect of the wood and to seal the pores of the timber thereby protecting it against the influence of the external factors, the moisture and the sun. The tueren are made of solid oak, 25 mm in thickness. Fine workmanship and excellent sturdiness which will last for a long time.'
   categories:
     - 
@@ -61,7 +61,7 @@ tueren:
         - '/kitchens/models/modern-classic/izabella/tueren/tueren-2.jpg'
         - '/kitchens/models/modern-classic/izabella/tueren/tueren-3.jpg'
         - '/kitchens/models/modern-classic/izabella/tueren/tueren-4.jpg'
-griffe:
+handles:
   description: 'Wide, noticeable metal griffe. Well selected in order to be comfortable and elegant, matching the model which we offer. The griffe are made of high-quality metal whose properties do not change over time. They do not darken and do not scale.'
   categories:
     - 
@@ -71,7 +71,7 @@ griffe:
         - '/kitchens/models/modern-classic/izabella/griffe/metal-griffe-2.jpg'
         - '/kitchens/models/modern-classic/izabella/griffe/metal-griffe-3.jpg'
         - '/kitchens/models/modern-classic/izabella/griffe/metal-griffe-4.jpg'
-kuechenarbeitsplattes:
+worktops:
   description: 'For the perfect finish of your kitchen, we offer a wide choice of kuechenarbeitsplattes, walls and panels which may be made of natural stone or of a material which is an excellent imitation of stone. Exceptionally reliable and proven over time.'
   hpl:
     photos:
@@ -83,7 +83,7 @@ kuechenarbeitsplattes:
     photos:
       - '/kitchens/models/modern-classic/izabella/kuechenarbeitsplatte/technical-stone/technical-stone-1.jpg'
       - '/kitchens/models/modern-classic/izabella/kuechenarbeitsplatte/technical-stone/technical-stone-2.jpg'
-  granit:
+  granite:
     photos:
       - '/kitchens/models/modern-classic/izabella/kuechenarbeitsplatte/granit/granit-1.jpg'
       - '/kitchens/models/modern-classic/izabella/kuechenarbeitsplatte/granit/granit-2.jpg'
