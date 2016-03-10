@@ -49,32 +49,32 @@ doors:
   description: 'Die Türen dieses Modells werden aus 18 mm und 22 mm MDF-Platten, mit Grundfolie für tiefe Profilierung, gestrichen mit Polyurethan-Farben und –Lacken, hergestellt. Die Platten werden für zusätzliche Robustheit und Beständigkeit poliert. Große Auswahl an Farben für Türen aus lackierten MDF-Platten.'
   categories:
     - 
-      caption: 'Varnished MDF'
+      caption: 'Lackierte MDF-Platten'
       photos:
-        - '/kuechen/modelle/moderne/tiziana/tueren/varnished-mdf/varnished-mdf-1.jpg'
-        - '/kuechen/modelle/moderne/tiziana/tueren/varnished-mdf/varnished-mdf-2.jpg'
-        - '/kuechen/modelle/moderne/tiziana/tueren/varnished-mdf/varnished-mdf-3.jpg'
-        - '/kuechen/modelle/moderne/tiziana/tueren/varnished-mdf/mdf-colourful.jpg'
+        - '/kuechen/modelle/moderne/tiziana/tueren/lackierte-mdf-platten/lackierte-mdf-platten-1.jpg'
+        - '/kuechen/modelle/moderne/tiziana/tueren/lackierte-mdf-platten/lackierte-mdf-platten-2.jpg'
+        - '/kuechen/modelle/moderne/tiziana/tueren/lackierte-mdf-platten/lackierte-mdf-platten-3.jpg'
+        - '/kuechen/modelle/moderne/tiziana/tueren/lackierte-mdf-platten/mdf-farben.jpg'
     - 
-      caption: 'Aluminium frame'
+      caption: 'Aluminiumrahmen'
       photos:
-        - '/kuechen/modelle/moderne/tiziana/tueren/aluminium-frame/aluminium-frame-1.jpg'
-        - '/kuechen/modelle/moderne/tiziana/tueren/aluminium-frame/aluminium-frame-2.jpg'
-        - '/kuechen/modelle/moderne/tiziana/tueren/aluminium-frame/aluminium-frame-3.jpg'
+        - '/kuechen/modelle/moderne/tiziana/tueren/aluminiumrahmen/aluminiumrahmen-1.jpg'
+        - '/kuechen/modelle/moderne/tiziana/tueren/aluminiumrahmen/aluminiumrahmen-2.jpg'
+        - '/kuechen/modelle/moderne/tiziana/tueren/aluminiumrahmen/aluminiumrahmen-3.jpg'
     - 
-      caption: 'griffes tueren'
+      caption: 'Türen ohne Griffe'
       photos:
-        - '/kuechen/modelle/moderne/tiziana/tueren/griffes-tueren/griffes-tueren-1.jpg'
-        - '/kuechen/modelle/moderne/tiziana/tueren/griffes-tueren/griffes-tueren-2.jpg'
-        - '/kuechen/modelle/moderne/tiziana/tueren/griffes-tueren/griffes-tueren-3.jpg'
-        - '/kuechen/modelle/moderne/tiziana/tueren/griffes-tueren/griffes-tueren-4.jpg'
-        - '/kuechen/modelle/moderne/tiziana/tueren/griffes-tueren/griffes-tueren-5.jpg'
-        - '/kuechen/modelle/moderne/tiziana/tueren/griffes-tueren/griffes-tueren-6.jpg'
+        - '/kuechen/modelle/moderne/tiziana/tueren/tueren-ohne-griffe/tueren-ohne-griffe-1.jpg'
+        - '/kuechen/modelle/moderne/tiziana/tueren/tueren-ohne-griffe/tueren-ohne-griffe-2.jpg'
+        - '/kuechen/modelle/moderne/tiziana/tueren/tueren-ohne-griffe/tueren-ohne-griffe-3.jpg'
+        - '/kuechen/modelle/moderne/tiziana/tueren/tueren-ohne-griffe/tueren-ohne-griffe-4.jpg'
+        - '/kuechen/modelle/moderne/tiziana/tueren/tueren-ohne-griffe/tueren-ohne-griffe-5.jpg'
+        - '/kuechen/modelle/moderne/tiziana/tueren/tueren-ohne-griffe/tueren-ohne-griffe-6.jpg'
 handles:
-  description: 'A wide variety of standard and designer handle solutions. Integrated door griffe can be used for the upper cupboards. They are completely made out of metal for sturdiness when used. '
+  description: 'Eine Vielzahl von Standard- und Design-Griffe. Für die Oberschränke können integrierte Türgriffe verwendet werden. Komplett aus Metall angefertigt für bessere Haltbarkeit beim Einsatz.'
   categories:
     - 
-      caption: 'Narrow and wide metal griffe'
+      caption: 'Schmale und breite Metallgriffe'
       photos:
         - '/kuechen/modelle/moderne/tiziana/griffe/griffe-1.jpg'
         - '/kuechen/modelle/moderne/tiziana/griffe/griffe-2.jpg'
@@ -90,7 +90,7 @@ handles:
         - '/kuechen/modelle/moderne/tiziana/griffe/griffe-12.jpg'
         - '/kuechen/modelle/moderne/tiziana/griffe/griffe-13.jpg'
 worktops:
-  description: 'A wide variety of kuechenarbeitsplatte decors and materials. They can easily be combined with the kitchen design. kuechenarbeitsplattes by HPL, EGGER and KAINDL – Austria. kuechenarbeitsplattes of technical stone QUARELLA – Italy. granit kuechenarbeitsplattes NATURAL STONES – Italy.'
+  description: 'Eine große Auswahl an Dekoren und Materialien für die Küchearbeitsplatten. Sie können mit dem Design der Küche leicht kombiniert werden. Küchenarbeitsplatten von HPL, EGGER und KAINDL – Österreich. Küchenarbeitsplatten aus Kunststein QUARELLA – Italien. Küchenarbeitsplatten aus Granit NATURAL STONES – Italien.'
   hpl:
     photos:
       - '/kuechen/modelle/moderne/tiziana/kuechenarbeitsplatte/hpl/hpl-1.jpg'
@@ -120,9 +120,9 @@ worktops:
       - '/kuechen/modelle/moderne/tiziana/kuechenarbeitsplatte/granit/granit-9.jpg'
   technicalStone:
     photos:
-      - '/kuechen/modelle/moderne/tiziana/kuechenarbeitsplatte/technical-stone/technical-stone-1.jpg'
-      - '/kuechen/modelle/moderne/tiziana/kuechenarbeitsplatte/technical-stone/technical-stone-2.jpg'
-      - '/kuechen/modelle/moderne/tiziana/kuechenarbeitsplatte/technical-stone/technical-stone-3.jpg'
-      - '/kuechen/modelle/moderne/tiziana/kuechenarbeitsplatte/technical-stone/technical-stone-4.jpg'
-      - '/kuechen/modelle/moderne/tiziana/kuechenarbeitsplatte/technical-stone/technical-stone-5.jpg'
-      - '/kuechen/modelle/moderne/tiziana/kuechenarbeitsplatte/technical-stone/technical-stone-6.jpg'
+      - '/kuechen/modelle/moderne/tiziana/kuechenarbeitsplatte/kunststein/kunststein-1.jpg'
+      - '/kuechen/modelle/moderne/tiziana/kuechenarbeitsplatte/kunststein/kunststein-2.jpg'
+      - '/kuechen/modelle/moderne/tiziana/kuechenarbeitsplatte/kunststein/kunststein-3.jpg'
+      - '/kuechen/modelle/moderne/tiziana/kuechenarbeitsplatte/kunststein/kunststein-4.jpg'
+      - '/kuechen/modelle/moderne/tiziana/kuechenarbeitsplatte/kunststein/kunststein-5.jpg'
+      - '/kuechen/modelle/moderne/tiziana/kuechenarbeitsplatte/kunststein/kunststein-6.jpg'
