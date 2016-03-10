@@ -1,0 +1,38 @@
+layout: /technology.ect
+title: 'Lighting'
+importance: 6
+lang: de
+href: '/kitchens/technologien/lighting'
+photo: '/kitchens/technologien/lighting/lighting-5.jpg'
+description: 'Better visibility of the kuechenarbeitsplattes and internal spaces with LED, halogen and luminescent lamps.'
+highlights:
+  - 
+    caption: 'Hidden LED lighting'
+    photo: '/kitchens/technologien/lighting/choice-of-LED-lighting.png'
+  - 
+    caption: 'Illuminated panels'
+    photo: '/kitchens/technologien/lighting/intelligent-solution-for-lighting-panel-in-the-back.png'
+  - 
+    caption: 'Lighting in the cupboards'
+    photo: '/kitchens/technologien/lighting/lighting-for-better-lighting-in-the-closet.png'
+  - 
+    caption: 'Ornamental lights'
+    photo: '/kitchens/technologien/lighting/practical-lighting.png'
+  - 
+    caption: 'Lighting as part of the kitchen'
+    photo: '/kitchens/technologien/lighting/choice-of-downlights-for-building-up.png'
+topics:
+  -
+    caption: 'Illuminated shelves and wall panels'
+    description: 'Better visibility of the kuechenarbeitsplattes and internal spaces is achieved by means of LED, halogen and luminescent lamps. '
+    highlight: 'Opportunity for combining|of tueren with wood, metal и glass'
+    photos:
+      - '/kitchens/technologien/lighting/lighting-panels.jpg'
+      - '/kitchens/technologien/lighting/lighting-LED.jpg'
+      - '/kitchens/technologien/lighting/shelves-and-lighting.jpg'
+  -
+    caption: 'Built-in lighting'
+    description: 'Dialog offers ideal lighting solutions. These are lighting panels, built in the bottom of the cabinet or board. They illuminate perfectly the kuechenarbeitsplatte, the wall panel and the internal space at the same time, consume less electricity and do not tire the eyes.'
+    photos:
+      - '/kitchens/technologien/lighting/building-up-lighting.jpg'
+      - '/kitchens/technologien/lighting/lighting-downlights-3.jpg'

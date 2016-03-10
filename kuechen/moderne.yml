@@ -1,0 +1,22 @@
+layout: /category.ect
+href: '/kitchens/models/modern'
+lang: de
+title: "Modern kitchens"
+importance: 1
+description: "Attractive and provocative. Irresistibly fresh models with temperamentally youth flavour."
+highlights:
+  - 
+    caption: 'A selection of particle board of a new generation'
+    photo: '/kitchens/models/modern/angela/particle-board-of-a-new-generation.png'
+  - 
+    caption: 'Practical and comfortable design'
+    photo: '/kitchens/models/modern/ernesta/practical-kitchen.png'
+  - 
+    caption: 'A variety of modern colour solutions'
+    photo: '/kitchens/models/modern/liviana/wonderful-vision.png'
+  - 
+    caption: 'Luxury and style with combinations of mat and gloss finishes'
+    photo: '/kitchens/models/modern/tiziana/luxury-and-style.png'
+  - 
+    caption: 'Modern technologien and handleless tueren'
+    photo: '/kitchens/models/modern/tiziana/griffes-design-solution.png'

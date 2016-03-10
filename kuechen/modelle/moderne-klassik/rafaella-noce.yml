@@ -1,0 +1,86 @@
+layout: /model.ect
+href: '/kitchens/models/modern-classic/rafaella-noce'
+lang: de
+category: '/kitchens/models/modern-classic'
+title: 'Rafaella Noce'
+importance: 4
+photo: '/kitchens/models/modern-classic/rafaella-noce/kitchen-rafaella-noce.jpg'
+description: 'A massive wide frame with a characteristic ash-tree frieze. Silky, satin-like, caressing, warm chocolate colour. Perfect design in the modern classics style.'
+highlights:
+  - 
+    caption: 'Modern|classics|vision'
+    photo: '/kitchens/models/modern-classic/rafaella-noce/modern-vision.png'
+  - 
+    caption: 'Warm|chocolate|colour'
+    photo: '/kitchens/models/modern-classic/rafaella-noce/chocolate-colour.png'
+  - 
+    caption: 'Perfect|design|and style'
+    photo: '/kitchens/models/modern-classic/rafaella-noce/perfect-design.png'
+topics:
+  -
+    caption: 'Solid ash-tree in a chocolate colour'
+    description: 'A straightforward design and a stylish solution for your kitchen. Massive tueren of ash-tree with wide frames with a characteristic frieze. There is an option for the tueren to be made of wood only or for frosted glass tueren. The wood surface is slightly uneven, resembling small notches.'
+    highlight: 'Options for finishing touches|of MDF and colour gloss'
+    photos:
+      - '/kitchens/models/modern-classic/rafaella-noce/tueren-3.jpg'
+      - '/kitchens/models/modern-classic/rafaella-noce/tueren-1.jpg'
+      - '/kitchens/models/modern-classic/rafaella-noce/tueren-2.jpg'
+  -
+    caption: 'kuechenarbeitsplattes which merge with the kitchen completely'
+    description: 'For this model especially, the kuechenarbeitsplattes are made with a wooden edge which is specially machined to match the vision of the tueren. The wide choice of colours and kuechenarbeitsplattes made of natural materials will ensure that they match the overall interior of the kitchen perfectly.'
+    highlight: 'Modern vision|and fascination in white'
+    photos:
+      - '/kitchens/models/modern-classic/rafaella-noce/kuechenarbeitsplattes-1.jpg'
+      - '/kitchens/models/modern-classic/rafaella-noce/kuechenarbeitsplattes-2.jpg'
+      - '/kitchens/models/modern-classic/rafaella-noce/kuechenarbeitsplattes-3.jpg'
+  -
+    caption: 'Options for finishing touches of MDF and colour gloss'
+    description: 'For more atmosphere in the classic vision of the kitchen, there is an option to add some fresh finishing touches, glass door cabinets and colour elements, thick bookshelves and TV modules.'
+    photos:
+      - '/kitchens/models/modern-classic/rafaella-noce/centrepiece-1.jpg'
+      - '/kitchens/models/modern-classic/rafaella-noce/centrepiece-2.jpg'
+  -
+    caption: 'State-of-the-art technologien and classic vision'
+    description: 'The use of modern solutions and state-of-the-art technologien make Dialog kitchens not only a comfortable kitchen solution but a kitchen for life which you will enjoy using. Reliable mechanisms and high-quality workmanship of the solid wood. The chocolate colour of the model gives it a classic and stylish appearance which allows combinations with various colours and kuechenarbeitsplattes which may be made both of natural and artificial materials.'
+    photos:
+      - '/kitchens/models/modern-classic/rafaella-noce/technologien-1.jpg'
+      - '/kitchens/models/modern-classic/rafaella-noce/technologien-2.jpg'
+      - '/kitchens/models/modern-classic/rafaella-noce/technologien-3.jpg'
+tueren:
+  description: 'Solid ash-tree wood 25 mm thick, the surface is finished in a special way which gives it a warm chocolate colour. The wood has been subjected to gentle abrasive treatment which gives it flair of secrecy and depth. The tueren can be of frosted glass or made wholly of wood.'
+  categories:
+    - 
+      caption: 'Solid ash-tree timber, 25 mm thick'
+      photos:
+        - '/kitchens/models/modern-classic/rafaella-noce/tueren/tueren-1.jpg'
+        - '/kitchens/models/modern-classic/rafaella-noce/tueren/tueren-2.jpg'
+        - '/kitchens/models/modern-classic/rafaella-noce/tueren/tueren-3.jpg'
+        - '/kitchens/models/modern-classic/rafaella-noce/tueren/tueren-4.jpg'
+griffe:
+  description: 'Metal griffe which are not inferior to any other griffe as regards quality and comfort of the grip. Perfectly selected to suit the model. The griffe do not become darker and do not change their appearance over time.'
+  categories:
+    - 
+      caption: 'Metal'
+      photos:
+        - '/kitchens/models/modern-classic/rafaella-noce/handle/metal-handle.jpg'
+kuechenarbeitsplattes:
+  description: 'The suitable kuechenarbeitsplatte colours are of the beige-brown range. We offer the option for natural materials and HPL kuechenarbeitsplattes. For those who love white, we offer a completely white kuechenarbeitsplatte, as well as various of its nuances. There are also kuechenarbeitsplattes in the darker colour range. The technical stone will charm you with the variety of colours that we offer.'
+  hpl:
+    photos:
+      - '/kitchens/models/modern-classic/rafaella-noce/kuechenarbeitsplatte/hpl/kuechenarbeitsplatte-1.jpg'
+      - '/kitchens/models/modern-classic/rafaella-noce/kuechenarbeitsplatte/hpl/kuechenarbeitsplatte-2.jpg'
+      - '/kitchens/models/modern-classic/rafaella-noce/kuechenarbeitsplatte/hpl/kuechenarbeitsplatte-3.jpg'
+      - '/kitchens/models/modern-classic/rafaella-noce/kuechenarbeitsplatte/hpl/kuechenarbeitsplatte-4.jpg'
+      - '/kitchens/models/modern-classic/rafaella-noce/kuechenarbeitsplatte/hpl/kuechenarbeitsplatte-5.jpg'
+  hpl60mm:
+    photos:
+      - '/kitchens/models/modern-classic/rafaella-noce/kuechenarbeitsplatte/hpl-60mm/hpl-9.jpg'
+      - '/kitchens/models/modern-classic/rafaella-noce/kuechenarbeitsplatte/hpl-60mm/hpl-10.jpg'
+  technicalStone:
+    photos:
+      - '/kitchens/models/modern-classic/rafaella-noce/kuechenarbeitsplatte/technical-stone/technical-stone-1.jpg'
+      - '/kitchens/models/modern-classic/rafaella-noce/kuechenarbeitsplatte/technical-stone/technical-stone-2.jpg'
+  granit:
+    photos:
+      - '/kitchens/models/modern-classic/rafaella-noce/kuechenarbeitsplatte/granit/granit-1.jpg'
+      - '/kitchens/models/modern-classic/rafaella-noce/kuechenarbeitsplatte/granit/granit-2.jpg'

@@ -1,0 +1,128 @@
+layout: /model.ect
+href: '/kitchens/models/modern/tiziana'
+lang: de
+category: '/kitchens/models/modern'
+title: 'Tiziana'
+importance: 3
+parent: '/kitchens/modern.html'
+photo: '/kitchens/models/modern/tiziana/kitchen-tiziana.jpg'
+description: 'Varnish offered in a rich palette of colours. Impressive gloss and depth of cover, absolute cleanliness. Extravagant and elegant profile handle. Colourful pictures for audacious interior solutions.'
+highlights:
+  - 
+    caption: 'An elegant|griffes|design solution'
+    photo: '/kitchens/models/modern/tiziana/griffes-design-solution.png'
+  - 
+    caption: 'A combination|of luxury|and style'
+    photo: '/kitchens/models/modern/tiziana/luxury-and-style.png'
+  - 
+    caption: 'Shiny|polished gloss|finish'
+    photo: '/kitchens/models/modern/tiziana/polished-finish.png'
+topics:
+  -
+    caption: 'Infinite choice of colours'
+    description: 'Varnish offered in a wide palette of colours. Impressive shine and depth of the coat for exceptionally practical and easy maintenance.'
+    photos:
+      - '/kitchens/models/modern/tiziana/polish-and-colours.jpg'
+      - '/kitchens/models/modern/tiziana/polish-and-colours-1.jpg'
+      - '/kitchens/models/modern/tiziana/polish-and-colours-2.jpg'
+  -
+    caption: 'Option for metal or integrated griffe'
+    description: 'The two handle options in this model offer two different visions. For the more comfortable use of griffe, we make the MDF tueren thicker so that, after the handle is milled, there is enough space left for easy handling.'
+    photos:
+      - '/kitchens/models/modern/tiziana/griffe-2.jpg'
+      - '/kitchens/models/modern/tiziana/griffe-3.jpg'
+  -
+    caption: 'A combination of aluminium and glass'
+    description: 'To complement the modern vision of the model, there can be integrated glass tueren with aluminium frames, glass wall panels, metal panels and printed glass tueren.'
+    photos:
+      - '/kitchens/models/modern/tiziana/aluminium-glass-2.jpg'
+      - '/kitchens/models/modern/tiziana/aluminium-glass-1.jpg'
+      - '/kitchens/models/modern/tiziana/aluminium-glass-3.jpg'
+  -
+    caption: 'A combination of modern vision with modern technologien'
+    description: 'The elegant line of this model allows for the use of electrical appliances of various shape, colour and material, both built-in and free-standing, without impairing the vision of the kitchen. The modern technologien used for the cupboards contribute to the comfort and functionality achieved.'
+    photos:
+      - '/kitchens/models/modern/tiziana/technologien-1.jpg'
+      - '/kitchens/models/modern/tiziana/technologien-2.jpg'
+      - '/kitchens/models/modern/tiziana/technologien-3.jpg'
+tueren:
+  description: 'The tueren of this model are made of 18 mm and 22 mm MDF, with a priming foil for deep profiling, painted with polyurethane paints and varnishes. Polished for additional sturdiness and durability. A wide choice of colours for varnished MDF tueren.'
+  categories:
+    - 
+      caption: 'Varnished MDF'
+      photos:
+        - '/kitchens/models/modern/tiziana/tueren/varnished-mdf/varnished-mdf-1.jpg'
+        - '/kitchens/models/modern/tiziana/tueren/varnished-mdf/varnished-mdf-2.jpg'
+        - '/kitchens/models/modern/tiziana/tueren/varnished-mdf/varnished-mdf-3.jpg'
+        - '/kitchens/models/modern/tiziana/tueren/varnished-mdf/mdf-colourful.jpg'
+    - 
+      caption: 'Aluminium frame'
+      photos:
+        - '/kitchens/models/modern/tiziana/tueren/aluminium-frame/aluminium-frame-1.jpg'
+        - '/kitchens/models/modern/tiziana/tueren/aluminium-frame/aluminium-frame-2.jpg'
+        - '/kitchens/models/modern/tiziana/tueren/aluminium-frame/aluminium-frame-3.jpg'
+    - 
+      caption: 'griffes tueren'
+      photos:
+        - '/kitchens/models/modern/tiziana/tueren/griffes-tueren/griffes-tueren-1.jpg'
+        - '/kitchens/models/modern/tiziana/tueren/griffes-tueren/griffes-tueren-2.jpg'
+        - '/kitchens/models/modern/tiziana/tueren/griffes-tueren/griffes-tueren-3.jpg'
+        - '/kitchens/models/modern/tiziana/tueren/griffes-tueren/griffes-tueren-4.jpg'
+        - '/kitchens/models/modern/tiziana/tueren/griffes-tueren/griffes-tueren-5.jpg'
+        - '/kitchens/models/modern/tiziana/tueren/griffes-tueren/griffes-tueren-6.jpg'
+griffe:
+  description: 'A wide variety of standard and designer handle solutions. Integrated door griffe can be used for the upper cupboards. They are completely made out of metal for sturdiness when used. '
+  categories:
+    - 
+      caption: 'Narrow and wide metal griffe'
+      photos:
+        - '/kitchens/models/modern/tiziana/griffe/griffe-1.jpg'
+        - '/kitchens/models/modern/tiziana/griffe/griffe-2.jpg'
+        - '/kitchens/models/modern/tiziana/griffe/griffe-3.jpg'
+        - '/kitchens/models/modern/tiziana/griffe/griffe-4.jpg'
+        - '/kitchens/models/modern/tiziana/griffe/griffe-5.jpg'
+        - '/kitchens/models/modern/tiziana/griffe/griffe-6.jpg'
+        - '/kitchens/models/modern/tiziana/griffe/griffe-7.jpg'
+        - '/kitchens/models/modern/tiziana/griffe/griffe-8.jpg'
+        - '/kitchens/models/modern/tiziana/griffe/griffe-9.jpg'
+        - '/kitchens/models/modern/tiziana/griffe/griffe-10.jpg'
+        - '/kitchens/models/modern/tiziana/griffe/griffe-11.jpg'
+        - '/kitchens/models/modern/tiziana/griffe/griffe-12.jpg'
+        - '/kitchens/models/modern/tiziana/griffe/griffe-13.jpg'
+kuechenarbeitsplattes:
+  description: 'A wide variety of kuechenarbeitsplatte decors and materials. They can easily be combined with the kitchen design. kuechenarbeitsplattes by HPL, EGGER and KAINDL – Austria. kuechenarbeitsplattes of technical stone QUARELLA – Italy. granit kuechenarbeitsplattes NATURAL STONES – Italy.'
+  hpl:
+    photos:
+      - '/kitchens/models/modern/tiziana/kuechenarbeitsplatte/hpl/hpl-1.jpg'
+      - '/kitchens/models/modern/tiziana/kuechenarbeitsplatte/hpl/hpl-2.jpg'
+      - '/kitchens/models/modern/tiziana/kuechenarbeitsplatte/hpl/hpl-3.jpg'
+      - '/kitchens/models/modern/tiziana/kuechenarbeitsplatte/hpl/hpl-4.jpg'
+      - '/kitchens/models/modern/tiziana/kuechenarbeitsplatte/hpl/hpl-5.jpg'
+      - '/kitchens/models/modern/tiziana/kuechenarbeitsplatte/hpl/hpl-6.jpg'
+      - '/kitchens/models/modern/tiziana/kuechenarbeitsplatte/hpl/hpl-7.jpg'
+      - '/kitchens/models/modern/tiziana/kuechenarbeitsplatte/hpl/hpl-8.jpg'
+      - '/kitchens/models/modern/tiziana/kuechenarbeitsplatte/hpl/hpl-9.jpg'
+      - '/kitchens/models/modern/tiziana/kuechenarbeitsplatte/hpl/hpl-10.jpg'
+      - '/kitchens/models/modern/tiziana/kuechenarbeitsplatte/hpl/hpl-11.jpg'
+      - '/kitchens/models/modern/tiziana/kuechenarbeitsplatte/hpl/hpl-12.jpg'
+      - '/kitchens/models/modern/tiziana/kuechenarbeitsplatte/hpl/hpl-13.jpg'
+      - '/kitchens/models/modern/tiziana/kuechenarbeitsplatte/hpl/hpl-14.jpg'
+  granit:
+    photos:
+      - '/kitchens/models/modern/tiziana/kuechenarbeitsplatte/granit/granit-1.jpg'
+      - '/kitchens/models/modern/tiziana/kuechenarbeitsplatte/granit/granit-2.jpg'
+      - '/kitchens/models/modern/tiziana/kuechenarbeitsplatte/granit/granit-3.jpg'
+      - '/kitchens/models/modern/tiziana/kuechenarbeitsplatte/granit/granit-4.jpg'
+      - '/kitchens/models/modern/tiziana/kuechenarbeitsplatte/granit/granit-5.jpg'
+      - '/kitchens/models/modern/tiziana/kuechenarbeitsplatte/granit/granit-6.jpg'
+      - '/kitchens/models/modern/tiziana/kuechenarbeitsplatte/granit/granit-7.jpg'
+      - '/kitchens/models/modern/tiziana/kuechenarbeitsplatte/granit/granit-8.jpg'
+      - '/kitchens/models/modern/tiziana/kuechenarbeitsplatte/granit/granit-9.jpg'
+  technicalStone:
+    photos:
+      - '/kitchens/models/modern/tiziana/kuechenarbeitsplatte/technical-stone/technical-stone-1.jpg'
+      - '/kitchens/models/modern/tiziana/kuechenarbeitsplatte/technical-stone/technical-stone-2.jpg'
+      - '/kitchens/models/modern/tiziana/kuechenarbeitsplatte/technical-stone/technical-stone-3.jpg'
+      - '/kitchens/models/modern/tiziana/kuechenarbeitsplatte/technical-stone/technical-stone-4.jpg'
+      - '/kitchens/models/modern/tiziana/kuechenarbeitsplatte/technical-stone/technical-stone-5.jpg'
+      - '/kitchens/models/modern/tiziana/kuechenarbeitsplatte/technical-stone/technical-stone-6.jpg'
