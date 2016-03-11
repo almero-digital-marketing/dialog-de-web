@@ -1,22 +1,22 @@
 layout: /category.ect
 href: '/kitchens/models/modern-classic'
 lang: de
-title: "Modern classic kitchens"
+title: "Moderne Klassik"
 importance: 2
-description: "Perfect design. Solid tueren of real oak. Wonderful colours."
+description: "Perfektes Design. Massivtüren aus echtem Eichenholz. Wunderschöne Farben."
 highlights:
   - 
-    caption: 'Beautiful natural colours'
-    photo: '/kitchens/models/modern-classic/izabella/workmanship-of-the-solid-wood.png'
+    caption: 'Schöne natürliche Farben'
+    photo: '/kuechen/modelle/moderne-klassik/izabella/perfekt-bearbeitetes-massives-eichenholz.png'
   - 
-    caption: 'Modern technologien for better comfort'
-    photo: '/kitchens/models/modern-classic/izabella/technologien-and-modern-vision.png'
+    caption: 'Moderne Technologien für mehr Komfort'
+    photo: '/kuechen/modelle/moderne-klassik/izabella/technologien-und-modernes-aussehen.png'
   - 
-    caption: 'An excellent combination of various materials'
-    photo: '/kitchens/models/modern-classic/izabella-noce/contrast-materials.png'
+    caption: 'Ausgezeichnete Kombination aus verschiedenen Materialien'
+    photo: '/kuechen/modelle/moderne-klassik/izabella-noce/kontrast-zwischen-den-materialien.png'
   - 
-    caption: 'An amazing combination of various styles and colours'
-    photo: '/kitchens/models/modern-classic/rafaella/two-styles-in-a-single-model.png'
+    caption: 'Hervorragende Kombination von verschiedenen Stilen und Farben'
+    photo: '/kuechen/modelle/moderne-klassik/rafaella/zwei-stile-in-einem-modell.png'
   - 
-    caption: 'Modern vision and impressive design'
-    photo: '/kitchens/models/modern-classic/rafaella-noce/modern-vision.png'
+    caption: 'Modernes Aussehen und beeindruckendes Design'
+    photo: '/kuechen/modelle/moderne-klassik/rafaella-noce/modernes-aussehen.png'
