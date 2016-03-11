@@ -1,38 +1,37 @@
 layout: /technology.ect
-title: 'Lighting'
+title: 'Beleuchtung'
 importance: 6
 lang: de
-href: '/kitchens/technologien/lighting'
-photo: '/kitchens/technologien/lighting/lighting-5.jpg'
-description: 'Better visibility of the kuechenarbeitsplattes and internal spaces with LED, halogen and luminescent lamps.'
+href: '/kitchens/technologies/lighting'
+photo: '/kuechen/technologien/beleuchtung/beleuchtung-5.jpg'
+description: 'Bessere Sichtbarkeit der Arbeitsbereiche und Flächen mit LED-, Halogen- und Leuchtstofflampen.'
 highlights:
   - 
-    caption: 'Hidden LED lighting'
-    photo: '/kitchens/technologien/lighting/choice-of-LED-lighting.png'
+    caption: 'Verdeckter LED-Einbau'
+    photo: '/kuechen/technologien/beleuchtung/led-einbau.png'
   - 
-    caption: 'Illuminated panels'
-    photo: '/kitchens/technologien/lighting/intelligent-solution-for-lighting-panel-in-the-back.png'
+    caption: 'Leuchtplatten'
+    photo: '/kuechen/technologien/beleuchtung/leuchtplatten.png'
   - 
-    caption: 'Lighting in the cupboards'
-    photo: '/kitchens/technologien/lighting/lighting-for-better-lighting-in-the-closet.png'
+    caption: 'Beleuchtung in den Schränken'
+    photo: '/kuechen/technologien/beleuchtung/beleuchtung-in-den-schraenken.png'
   - 
-    caption: 'Ornamental lights'
-    photo: '/kitchens/technologien/lighting/practical-lighting.png'
+    caption: 'Dekorative Beleuchtung'
+    photo: '/kuechen/technologien/beleuchtung/dekorative-beleuchtung.png'
   - 
-    caption: 'Lighting as part of the kitchen'
-    photo: '/kitchens/technologien/lighting/choice-of-downlights-for-building-up.png'
+    caption: 'Beleuchtung als Teil des Küchendesigns'
+    photo: '/kuechen/technologien/beleuchtung/beleuchtung-als-teil-des-kuechendesigns.png'
 topics:
   -
-    caption: 'Illuminated shelves and wall panels'
-    description: 'Better visibility of the kuechenarbeitsplattes and internal spaces is achieved by means of LED, halogen and luminescent lamps. '
-    highlight: 'Opportunity for combining|of tueren with wood, metal и glass'
+    caption: 'Leuchtende Regale und Wandpaneele'
+    description: 'Bessere Sichtbarkeit der Arbeitsplatten und -Flächen mit LED-, Halogen- und Leuchtstofflampen.'
     photos:
-      - '/kitchens/technologien/lighting/lighting-panels.jpg'
-      - '/kitchens/technologien/lighting/lighting-LED.jpg'
-      - '/kitchens/technologien/lighting/shelves-and-lighting.jpg'
+      - '/kuechen/technologien/beleuchtung/leuchtplatten-1.jpg'
+      - '/kuechen/technologien/beleuchtung/led-einbau-1.jpg'
+      - '/kuechen/technologien/beleuchtung/beleuchtung-in-den-schraenken-1.jpg'
   -
-    caption: 'Built-in lighting'
-    description: 'Dialog offers ideal lighting solutions. These are lighting panels, built in the bottom of the cabinet or board. They illuminate perfectly the kuechenarbeitsplatte, the wall panel and the internal space at the same time, consume less electricity and do not tire the eyes.'
+    caption: 'Einbauleuchte'
+    description: 'Firma Dialog bietet ideale Lösungen hinsichtlich der Beleuchtung. Das sind Leuchtplatten, die am Schrankboden oder am Brett eingebaut sind. Sie beleuchten perfekt gleichzeitig die Arbeitsplatte, das Wandpaneel und den Schrankinnenraum, verbrauchen weniger Strom und machen die Augen nicht müde.'
     photos:
-      - '/kitchens/technologien/lighting/building-up-lighting.jpg'
-      - '/kitchens/technologien/lighting/lighting-downlights-3.jpg'
+      - '/kuechen/technologien/beleuchtung/еinbauleuchte.jpg'
+      - '/kuechen/technologien/beleuchtung/beleuchtung-3.jpg'
