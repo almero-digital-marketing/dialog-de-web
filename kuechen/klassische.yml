@@ -1,22 +1,21 @@
 layout: /category.ect
 href: '/kitchens/models/classic'
 lang: de
-title: "Classic Kitchens"
-importance: 3
-description: "Classic kitchens uniting quality and tradition."
+title: "Klassische Küchen
+description: "Klassische Küchen, die Qualität und Tradition in einem vereinen"
 highlights:
   - 
-    caption: 'Precision to the last detail'
+    caption: 'Präzision bis ins kleinste Detail'
     photo: '/kitchens/models/classic/daria-noce/detail.png'
   - 
-    caption: 'Exquisite workmanship of the solid wood'
-    photo: '/kitchens/models/classic/daria/workmanship-of-the-solid-wood.png'
+    caption: 'Perfekt bearbeitetes Massivholz'
+    photo: '/kitchens/models/classic/daria/bearbeitetes-massivholz.png'
   - 
-    caption: 'Elegance and beautiful ornaments'
-    photo: '/kitchens/models/classic/daria/complementary-cornice.png'
+    caption: 'Eleganz und schöne Verzierungen'
+    photo: '/kitchens/models/classic/daria/faszinierende-dekorative-elemente.png'
   - 
-    caption: 'Option for individual modules'
-    photo: '/kitchens/models/classic/florenza/Combination-stone-and-wood.png'
+    caption: 'Möglichkeit zur Wahl eigenständiger Module'
+    photo: '/kitchens/models/classic/florenza/kombination-von-massivholz-und-stein.png'
   - 
-    caption: 'Beautiful combination of solid wood, metal and glass'
-    photo: '/kitchens/models/classic/daria-noce/Extravagance-coziness.png'
+    caption: 'Wunderschöne Kombination von Massivholz, Metall und Glas'
+    photo: '/kitchens/models/classic/daria-noce/extravaganz-gemuetlichkeit.png'
