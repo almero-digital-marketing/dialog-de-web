@@ -1,22 +1,22 @@
 layout: /category.ect
 href: '/kitchens/models/modern'
 lang: de
-title: "Modern kitchens"
+title: "Moderne Küchen"
 importance: 1
-description: "Attractive and provocative. Irresistibly fresh models with temperamentally youth flavour."
+description: "Attraktives und charmant freches Design. Unwiderstehlich frische Modelle mit jugendlichem, temperamentvollem Touch."
 highlights:
   - 
-    caption: 'A selection of particle board of a new generation'
-    photo: '/kitchens/models/modern/angela/particle-board-of-a-new-generation.png'
+    caption: 'Wahl von Spanplatten neuer Generation'
+    photo: '/kuechen/modelle/moderne/angela/platten-neuer-generation.png'
   - 
-    caption: 'Practical and comfortable design'
-    photo: '/kitchens/models/modern/ernesta/practical-kitchen.png'
+    caption: 'Praktisches und funktionales Design'
+    photo: '/kuechen/modelle/moderne/ernesta/praktische-kueche.png'
   - 
-    caption: 'A variety of modern colour solutions'
-    photo: '/kitchens/models/modern/liviana/wonderful-vision.png'
+    caption: 'Eine Vielzahl von modernen Farben'
+    photo: '/kuechen/modelle/moderne/liviana/wunderschoenes-aussehen.png'
   - 
-    caption: 'Luxury and style with combinations of mat and gloss finishes'
-    photo: '/kitchens/models/modern/tiziana/luxury-and-style.png'
+    caption: 'Luxus und Stil in Kombination von matter und glänzender Oberfläche'
+    photo: '/kuechen/modelle/moderne/tiziana/luxus-und-stil.png'
   - 
-    caption: 'Modern technologien and handleless tueren'
-    photo: '/kitchens/models/modern/tiziana/griffes-design-solution.png'
+    caption: 'Moderne Technologien und Türe ohne Griffe'
+    photo: '/kuechen/modelle/moderne/tiziana/loesung-ohne-griffe.png'
