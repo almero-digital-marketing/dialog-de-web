@@ -1,47 +1,45 @@
 layout: /technology.ect
-title: 'Extractor hoods'
+title: 'Dunstabzugshauben'
 importance: 8
 lang: de
 href: '/kitchens/technologies/extractor-hoods'
-photo: '/kuechen/technologien/extractor-hoods/building-in-extractor-hoods.jpg'
-description: "Dialog offers extractor hoods of the makes Faber, Elica, Bosch, Ariston, Fagor."
+photo: '/kuechen/technologien/dunstabzugshauben/einbau-dunstabzugshauben.jpg'
+description: "Firma Dialog bietet Dunstabzugshauben der Marken Faber, Elica, Bosch, Ariston, Fagor."
 highlights:
   - 
-    caption: 'Extractor hoods for building in'
-    photo: '/kuechen/technologien/extractor-hoods/extractor-hoods-for-building-in.png'
+    caption: 'Einbau- Dunstabzugshauben'
+    photo: '/kuechen/technologien/dunstabzugshauben/einbau-dunstabzugshauben.png'
   - 
-    caption: 'Designer extractor hoods'
-    photo: '/kuechen/technologien/extractor-hoods/designer-extractor-hoods.png'
+    caption: 'Design-Dunstabzugshauben'
+    photo: '/kuechen/technologien/dunstabzugshauben/design-dunstabzugshauben.png'
   - 
-    caption: 'Ornamental extractor hoods'
-    photo: '/kuechen/technologien/extractor-hoods/extractor-hoods-depending-of-the-kitchen-position.png'
+    caption: 'Dekorative Dunstabzugshauben'
+    photo: '/kuechen/technologien/dunstabzugshauben/dekorative-dunstabzugshauben.png'
   - 
-    caption: 'Island design extractor hoods'
-    photo: '/kuechen/technologien/extractor-hoods/island-design-extractor-hoods-for-an-island-type-of-kitchen.png'
+    caption: 'Insel-Dunstabzugshauben'
+    photo: '/kuechen/technologien/dunstabzugshauben/insel-dunstabzugshauben.png'
   - 
-    caption: 'Retro extractor hoods'
-    photo: '/kuechen/technologien/extractor-hoods/retro-extractor-hoods.png'
+    caption: 'Retro-Dunstabzugshauben'
+    photo: '/kuechen/technologien/dunstabzugshauben/retro-dunstabzugshauben.png'
 topics:
   -
-    caption: 'In unison with the kitchen'
-    description: 'Extractor hoods capture cooking fumes, ensure circulation and surplus of fresh air. Depending on their installation, they are built-in, wall or ceiling mounted. Their choice is substantiated by the capacity and noise level required. Dialog offers extractor hoods of the makes Faber, Elica, Bosch, Ariston, Fagor.'
-    highlight: 'Opportunity for combining|of tueren with wood, metal и glass'
+    caption: 'Im Einklang mit der Küche'
+    description: 'Sie erfassen sämtliche Kochdünste, sichern die Zirkulation und erfrischen die Luft. Je nach ihrer Montage teilen sie sich in Einbau-, Wand- und Decken-Dunstabzugshauben ein. Sie werden je nach der erforderlichen Kubatur und Lärmpegel gewählt. Firma Dialog bietet Dunstabzugshauben der Marken Faber, Elica, Bosch, Ariston, Fagor.'
     photos:
-      - '/kuechen/technologien/extractor-hoods/building-in-extractor-hoods.jpg'
-      - '/kuechen/technologien/extractor-hoods/retro-extractor-hoods.jpg'
-      - '/kuechen/technologien/extractor-hoods/extractor-hood.jpg'
+      - '/kuechen/technologien/dunstabzugshauben/einbau-dunstabzugshauben.jpg'
+      - '/kuechen/technologien/dunstabzugshauben/retro-dunstabzugshauben.jpg'
+      - '/kuechen/technologien/dunstabzugshauben/dunstabzugshaub.jpg'
   -
-    caption: 'Designer solutions'
-    description: 'Extractor hoods capture cooking fumes, ensure circulation and surplus of fresh air. Depending on their installation, they are built-in, wall or ceiling mounted. Their choice is substantiated by the capacity and noise level required. Dialog offers extractor hoods of the makes Faber, Elica, Bosch, Ariston, Fagor.'
+    caption: 'Designlösungen'
+    description: 'Sie erfassen sämtliche Kochdünste, sichern die Zirkulation und erfrischen die Luft. Je nach ihrer Montage teilen sie sich in Einbau-, Wand- und Decken-Dunstabzugshauben ein. Sie werden je nach der erforderlichen Kubatur und Lärmpegel gewählt. Firma Dialog bietet Dunstabzugshauben der Marken Faber, Elica, Bosch, Ariston, Fagor.'
     photos:
-      - '/kuechen/technologien/extractor-hoods/designer-extractor-hoods-1.jpg'
-      - '/kuechen/technologien/extractor-hoods/designer-extractor-hoods-2.jpg'
-      - '/kuechen/technologien/extractor-hoods/designer-extractor-hoods-3.jpg'
+      - '/kuechen/technologien/dunstabzugshauben/design-dunstabzugshauben-1.jpg'
+      - '/kuechen/technologien/dunstabzugshauben/design-dunstabzugshauben-2.jpg'
+      - '/kuechen/technologien/dunstabzugshauben/design-dunstabzugshauben-3.jpg'
   -
-    caption: 'Island design extractor hoods'
-    description: 'Extractor hoods capture cooking fumes, ensure circulation and surplus of fresh air. Depending on their installation, they are built-in, wall or ceiling mounted. Their choice is substantiated by the capacity and noise level required. Dialog offers extractor hoods of the makes Faber, Elica, Bosch, Ariston, Fagor.'
-    highlight: 'Aluminium shelves|that make the kitchen better'
+    caption: 'Insel-Dunstabzugshauben'
+    description: 'Sie erfassen sämtliche Kochdünste, sichern die Zirkulation und erfrischen die Luft. Je nach ihrer Montage teilen sie sich in Einbau-, Wand- und Decken-Dunstabzugshauben ein. Sie werden je nach der erforderlichen Kubatur und Lärmpegel gewählt. Firma Dialog bietet Dunstabzugshauben der Marken Faber, Elica, Bosch, Ariston, Fagor.'
     photos:
-      - '/kuechen/technologien/extractor-hoods/island-design-extractor-hood-1.jpg'
-      - '/kuechen/technologien/extractor-hoods/island-design-extractor-hood-2.jpg'
-      - '/kuechen/technologien/extractor-hoods/island-design-extractor-hood-3.jpg'
+      - '/kuechen/technologien/dunstabzugshauben/insel-dunstabzugshauben-1.jpg'
+      - '/kuechen/technologien/dunstabzugshauben/insel-dunstabzugshauben-2.jpg'
+      - '/kuechen/technologien/dunstabzugshauben/insel-dunstabzugshauben-3.jpg'
