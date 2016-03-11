@@ -1,34 +1,34 @@
 layout: /order.ect
 href: '/kitchens/kitchen-order'
 lang: de
-title: 'Ordering a kitchen'
-navigationTitle: 'Ordering a kitchen'
+title: 'Bestellung von Küchen'
+navigationTitle: 'Bestellung von Küchen'
 request:
-  title: 'Enquiry'
-  subtitle: 'We would like to welcome you to the shops of Dialog kitchens'
+  title: 'Anfrage'
+  subtitle: 'Besuchen Sie die Geschäfte der Firma Dialog'
   image: '/images/enquiry.jpg'
-  description: 'In order to make an enquiry, you are welcome to visit the shops of Dialog kitchens. After you state your requirements, as well as what you like about our models, we will be able to provide you with maximum support in your choice and to consult you on all possible issues. In order to provide you with a precise quotation and to be maximally correct, it is best that you make a sketch of the premises.'
+  description: 'Um eine Anfrage zu machen, bitte besuchen Sie eines unserer Geschäfte. Nachdem Sie uns Ihre Anforderungen sowie das, was Ihnen von unseren Modellen gefallen hat, mitteilen, können wir bei Ihrer Wahl maximal nützlich sein und alle Ihren Fragen beantworten. Damit wir Ihnen einen genauen Kostenvoranschlag geben können und Ihnen maximal von Nutzen sein können, ist es empfehlenswert, dass Sie eine Skizze Ihrer Küche mitbringen.'
 project:
-  title: 'Project'
-  subtitle: 'We will make a 3D Photorealistic design'
+  title: 'Projekt'
+  subtitle: 'Wir werden für Sie ein 3d fotorealistisches Projekt erstellen'
   image: '/images/project-big.jpg'
-  description: 'The design itself is one of the most important stages in the process of creating the kitchen. A member of the technical staff of Dialog will measure the exact details and geometry of the room. Using specialised software, we will make a 3D photorealistic design which will be maximally close to your real kitchen and which ca be actually implemented. '
+  description: 'Die tatsächliche Projektierung ist eine der wichtigsten Etappen im Prozess der Erstellung der Küche. Ein Mitarbeiter von der technischen Abteilung der Firma Dialog wird die genauen Abmessungen und die Geometrie ihres Raumes entnehmen. Mit Hilfe einer speziellen Software werden wir ein 3D fotorealistisches Projekt erstellen, das ihrer Vorstellungen und Wünsche maximal nahekommt. Wir werden Ihnen ein Projekt anbieten, das tatsächlich ausgeführt werden kann.'
 price:
-  title: 'Price'
-  subtitle: 'Price, up to 2 working days after a submitter enquiry'
+  title: 'Preis'
+  subtitle: 'Preis innerhalb von 2 Arbeitstagen nach Eingang Ihrer Anfrage'
   image: '/images/price-2.jpg'
-  description: 'If you enquire about a price per linear metre, our reply will be that there is no precise answer to this question because in one linear metre may be included an unknown number and various types of components. As basic guidelines, you are welcome to visit our shops, where you will find labels with the exact price of each kitchen. And if you would like to know the specific price of the kitchen which you have chosen, please do not hesitate to make an enquiry to which we will reply within 2 working days.'
+  description: 'Wenn Sie nach einem Preis pro laufendem Meter fragen, werden wir Ihnen antworten, dass es keine genaue Antwort auf dies Frage gibt, da in einem laufenden Meter eine beliebige Anzahl von Komponenten unterschiedlicher Art enthalten sein kann. Damit Sie sich orientieren können, was die Preise betrifft, bitte besuchen Sie eines unserer Geschäfte, wo jede ausgestellte Küche ein Etikett mit dem genauen Preis hat. Um einen genauen Preis für die Küche, die Sie ausgewählt haben, zu bekommen, zögern Sie nicht eine Anfrage zu machen. Sie bekommen ein Angebot von uns innerhalb von 2 Arbeitstagen.'
 ptitleSchema: 
-  title: 'Sketch of the premises'
+  title: 'Скица на помeщението'
   columns: 
     -
-      description: 'The sketch of the palce is a dimensioned view from above with an approximately sizes. It will be good to point out the distances to the exicting terminals for clean and dirty water, an aspiration vent of the chimney, the height of the place and everything else that you feel important and needs to be described.'
+      description: 'Скицата на помещението е оразмерен изглед отгоре с приблизителни размери. Добре е да отбележите разстоянията до съществуващи изводи за права и обратна вода, аспирационен отвор на комина, височина на помещението, както и всичко останало, което Ви се стори важно или конфликтно.'
     -
-      description: 'It is important to point out all of the windows, coloumns, alcoves, griders, bends, chimneys and etc. This information will be useful for our designers in the initial design and in the creating of your personal offer.'
+      description: 'Важно е да отбележите всички прозорци, колони, ниши, трегери, чупки, комини и др. Тази информация ще е полезна на проектантите на Диалог при първоначалното проектиране и оферта за вашия случай.'
 ptitleProject: 
-  title: 'Kitchen Project'
+  title: 'Проект за кухня'
   columns: 
     -
-      description: 'In Dialog we will pay attention on the family traditions, the number of people in your familly, and your lifestyle. We will comment the model, which you already approved, we will compare it to some other models to show you the differences in the materials and to let you make the best choice for yourself. Together with you we will choose the best combination of components, colours and accesssories, we will choose the most appropriate electrical – appliances, the sing and the tap and will choose a exact date for the montage of all these things.'
+      description: 'В Диалог ще обърнем внимание на семейните традиции, броят на хората и начина Ви на живот. Ще коментираме модела, който сте харесали, ще го сравним с другите модели, ще Ви покажем разликата в материалите и по този начин ще направите избор по Ваш вкус. Заедно ще направим най-добрата комбинация на компонентите, цветовете и аксесоарите, ще изберем най-подходящите електроуреди, мивка, батерия и аспиратор.'
     -
-      description: 'In addition to the approved project we will create (for free) projects for the water and sewerage and electrical and aspiration systems and we will consult you in their montage. The project that you have approved will be in a kit with a price, contract, deadline for the installation and date for the montage. You can choose a payment method that will be the most comfortable for you.'
+      description: 'Към одобрения проект ще изготвим (безплатно) проекти за ВиК, ел. инсталация и аспирация и ще Ви консултираме при тяхното изпълнение. Oдобреният от Вас проект се придружава от окончателна цена, договор, срок за изработка и дата за монтаж.Може да изберете удобен за Вас начин на плащане.'
