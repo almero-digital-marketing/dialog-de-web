@@ -1,19 +1,18 @@
 layout: /technology.ect
-title: 'Clapping mechanisms'
+title: 'Klappbare Mechanismen'
 lang: de
 importance: 4
 href: '/kitchens/technologies/clapping-mechanisms'
-photo: '/kuechen/technologien/clapping-mechanisms/clapping-mechanisms-1.jpg'
-description: "Maximal access with one motion. Blum – modern systems from Austria for the modern Dialog kitchens."
+photo: '/kuechen/technologien/klappbare-mechanismen/klappbare-mechanismen-1.jpg'
+description: "Mit einer einzigen Bewegung – maximaler Zugang. Moderne Systeme Blum-Österreich speziell für die modernen Küchen Dialog."
 highlights:
   - 
-    photo: '/kuechen/technologien/clapping-mechanisms/mechanism-for-smoothly-opening-of-the-closets.png'
+    photo: '/kuechen/technologien/klappbare-mechanismen/elektrisches-system-zum-oeffnen.png'
 topics:
   -
-    caption: 'Easy access to the contents of the cupboard'
-    description: 'Optimal access through one motion. Smooth lifting and lowering with Aventos“ HF, HK, HL; electro-system for upward opening Servo drive; common controls via one controller „Aventos“ + „Tandembox“. Modern systems Blum – Austria for the modern Dialog kitchens.'
-    highlight: 'Opportunity for combining|of tueren with wood, metal и glass'
+    caption: 'Einfacher Zugriff auf den Schrankinnenraum'
+    description: 'Mit einer einzigen Bewegung – maximaler Zugang. Sanftes Heben und Senken mit „Aventos“ HF, HK, HL; elektrisches System zum Öffnen nach oben Servo-drive; gemeinsame Steuerung über einen Controller „Aventos“ + „Tandembox“. Moderne Systeme Blum-Österreich speziell für die modernen Küchen Dialog.'
     photos:
-      - '/kuechen/technologien/clapping-mechanisms/technologien-1.jpg'
-      - '/kuechen/technologien/clapping-mechanisms/mechanism-of-the-upper-door.jpg'
-      - '/kuechen/technologien/clapping-mechanisms/mechanism-upper-closet.jpg'
+      - '/kuechen/technologien/klappbare-mechanismen/technologien-1.jpg'
+      - '/kuechen/technologien/klappbare-mechanismen/mechanismus-1.jpg'
+      - '/kuechen/technologien/klappbare-mechanismen/mechanismus-2.jpg'
