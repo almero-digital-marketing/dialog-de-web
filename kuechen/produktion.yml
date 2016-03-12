@@ -62,8 +62,8 @@ topics:
     description: 'Die Aufhängung der Gehäuse der oberen Reihe ist sicher und zuverlässig, Tragfähigkeit 2 x 65 kg - Blum'
     roundphoto: '/kuechen/produktion/gerundet/aufhaengung-1.png'
     photos:
-      - '/kuechen/produktion/suspension/aufhaengung-1.jpg'
-      - '/kuechen/produktion/suspension/aufhaengung-2.jpg'
+      - '/kuechen/produktion/aufhaengung/aufhaengung-1.jpg'
+      - '/kuechen/produktion/aufhaengung/aufhaengung-2.jpg'
   -
     title: 'Rückenplatte'
     caption: 'Rückenplatte entlang der gesamten Länge der Seiten'
