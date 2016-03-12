@@ -1,5 +1,5 @@
 layout: /conversion.ect
-title: The quotation for a kitchen
+title: Angebot für eine Küche
 href: '/kitchens/contract-send'
 lang: de
-message: The quotation is successfully sent
+message: Das Angebot wurde erfolgreich übermittelt.
