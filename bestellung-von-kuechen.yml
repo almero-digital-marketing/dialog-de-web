@@ -19,16 +19,16 @@ price:
   image: '/images/price-2.jpg'
   description: 'Wenn Sie nach einem Preis pro laufendem Meter fragen, werden wir Ihnen antworten, dass es keine genaue Antwort auf dies Frage gibt, da in einem laufenden Meter eine beliebige Anzahl von Komponenten unterschiedlicher Art enthalten sein kann. Damit Sie sich orientieren können, was die Preise betrifft, bitte besuchen Sie eines unserer Geschäfte, wo jede ausgestellte Küche ein Etikett mit dem genauen Preis hat. Um einen genauen Preis für die Küche, die Sie ausgewählt haben, zu bekommen, zögern Sie nicht eine Anfrage zu machen. Sie bekommen ein Angebot von uns innerhalb von 2 Arbeitstagen.'
 ptitleSchema: 
-  title: 'Скица на помeщението'
+  title: 'Raumplan'
   columns: 
     -
-      description: 'Скицата на помещението е оразмерен изглед отгоре с приблизителни размери. Добре е да отбележите разстоянията до съществуващи изводи за права и обратна вода, аспирационен отвор на комина, височина на помещението, както и всичко останало, което Ви се стори важно или конфликтно.'
+      description: 'Der Raumplan stellt ein Grundriss mit Maßangaben dar. Es ist wünschenswert die Abstände zu bestehenden Wasser- und Abwasserleitungen, Lüftungsgitter am Schornstein, die Raumhöhe sowie alles Weitere, das Ihnen wichtig erscheint oder ggf. eine Konfliktstelle darstellt, zu verzeichnen.'
     -
-      description: 'Важно е да отбележите всички прозорци, колони, ниши, трегери, чупки, комини и др. Тази информация ще е полезна на проектантите на Диалог при първоначалното проектиране и оферта за вашия случай.'
+      description: 'Wichtig ist es sämtliche Fenster, Säulen, Nischen, Träger, Mauervorsprünge, Schornsteine u. A. zu vermerken. Diese Angaben werden den Dialog-Planern für den ersten Entwurf Ihres Angebots von hohem Nutzen sein.'
 ptitleProject: 
-  title: 'Проект за кухня'
+  title: 'Küchenentwurf'
   columns: 
     -
-      description: 'В Диалог ще обърнем внимание на семейните традиции, броят на хората и начина Ви на живот. Ще коментираме модела, който сте харесали, ще го сравним с другите модели, ще Ви покажем разликата в материалите и по този начин ще направите избор по Ваш вкус. Заедно ще направим най-добрата комбинация на компонентите, цветовете и аксесоарите, ще изберем най-подходящите електроуреди, мивка, батерия и аспиратор.'
+      description: 'Die Familientraditionen, die Anzahl der Familienmitglieder sowie Ihre Lebensweise werden von Dialog berücksichtigt. Wir werden das von Ihnen ausgesuchte Modell besprechen, dieses mit anderen Modellen vergleichen, Ihnen den Unterschied zwischen den Materialien aufweisen und auf dieser Grundlage werden Sie die Entscheidung, die Ihrem Geschmack entspricht, treffen. Wir werden zusammen die beste Kombination zwischen Bestandteile, Farben und Zubehör wählen und die geeignetsten elektrischen Geräten, Spülbecken, Armaturen und Abluftanlage aussuchen.'
     -
-      description: 'Към одобрения проект ще изготвим (безплатно) проекти за ВиК, ел. инсталация и аспирация и ще Ви консултираме при тяхното изпълнение. Oдобреният от Вас проект се придружава от окончателна цена, договор, срок за изработка и дата за монтаж.Може да изберете удобен за Вас начин на плащане.'
+      description: 'Zum genehmigten Entwurf werden wir (kostenfrei) Entwürfe für Wasser und Abwasser, Elektroinstallation und Küchenabluft erstellen und Sie bei Ihrer Ausführung gern beraten. Ein Endpreis, ein Vertrag, eine Ausführungsfrist und ein Einbautermin begleiten den von Ihnen genehmigte Entwurf. Sie können eine für Sie bequeme Zahlungsart wählen.'
