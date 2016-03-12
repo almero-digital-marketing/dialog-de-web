@@ -95,10 +95,10 @@ rfp:
   description: 'Um eine Anfrage zu machen, bitte besuchen Sie eines unserer Geschäfte. Nachdem Sie uns Ihre Anforderungen mitteilen, werden wir ein 3D-Projekt anfertigen und den Preis für die Küche bestimmen.'
 warranty:
   title: 'Garantie und Service'
-  description: 'Jede Küche verfügt über eine Garantiekarte. Wir gewährleisten eine Garantie unseres Produktes und eine Garantie unserer erbrachten Leistung. Während der Garantiezeit bedient Firma Dialog ihre Kunden durch eine spezialisierte Service-Gruppe.'
+  description: 'Jede Küche verfügt über eine Garantiekarte. Wir gewährleisten eine Garantie unseres Produktes und eine Garantie unserer erbrachten Leistung.'
   href: '/kitchens/warranty'
 contacts:
-  title: 'Kontaktdaten:'
+  title: 'Kontakt:'
   addressSofia: 'Stadt Sofia, tel.: +359 2 88 40 73 2 | blvd. Tsarigradsko Chaussee 139'
   addressPlovdiv: 'Stadt Plovdiv, tel.: +359 32 62 58 25 | blvd. Sankt Peterburg 48'
   email: 'dialog@kuhnidialog.bg'
